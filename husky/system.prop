@@ -1,0 +1,13 @@
+## Google Pixel 8 Pro {Husky}
+
+ro.mistos.maintainer=Libra420T
+
+# Husky Configurations
+ro.mist.display=1344 x 2992, 120 hz
+ro.mist.battery=5050mah
+ro.mist.soc=Tensor G3 [Zuma]
+ro.mist.camera=50MP + 50MP + 48MP
+ro.mist.front=12MP
+ro.mist.platform=Titan M2
+ro.mist.screen=6.7' Super Actua LTPO OLED
+ro.mist.device.name=Pixel 8 Pro
